@@ -10198,7 +10198,7 @@ msgstr ""
 msgid "Upgrade to PRO"
 msgstr ""
 
-#: ../includes/Traits/Admin.php:215, ../includes/Traits/Admin.php:1817, ../includes/Traits/Admin.php:1952, ../includes/Traits/Helper.php:615
+#: ../includes/Traits/Admin.php:215, ../includes/Traits/Admin.php:1830, ../includes/Traits/Admin.php:1965, ../includes/Traits/Helper.php:615
 msgid "Activate"
 msgstr ""
 
@@ -10286,7 +10286,7 @@ msgstr ""
 msgid "Enhance Your Elementor Experience By <br/> <b>Unlocking</b> <span class='Advance-color'>40+ Advanced PRO</span> <b>Elements</b>"
 msgstr ""
 
-#: ../includes/Traits/Admin.php:377, ../includes/Traits/Admin.php:1738
+#: ../includes/Traits/Admin.php:377
 msgid "Upgrade To PRO"
 msgstr ""
 
@@ -10682,27 +10682,35 @@ msgstr ""
 msgid "Never show again"
 msgstr ""
 
-#: ../includes/Traits/Admin.php:1730
-msgid "🛍️ This <strong>Black Friday</strong> enjoy up to 30% OFF on PRO plans. Get the best Essential Addons deal of the season now."
+#: ../includes/Traits/Admin.php:1731
+msgid "🎁 <strong>SAVE 25% now</strong> & unlock 100+ advanced elements & 2800+ ready templates to design Elementor websites faster in 2025."
 msgstr ""
 
-#: ../includes/Traits/Admin.php:1817, ../includes/Traits/Admin.php:1952
+#: ../includes/Traits/Admin.php:1741
+msgid "GET PRO Lifetime Access"
+msgstr ""
+
+#: ../includes/Traits/Admin.php:1743
+msgid "No, I'll Pay Full Price Later"
+msgstr ""
+
+#: ../includes/Traits/Admin.php:1830, ../includes/Traits/Admin.php:1965
 msgid "Install Essential Blocks"
 msgstr ""
 
-#: ../includes/Traits/Admin.php:1826, ../includes/Traits/Admin.php:2006
+#: ../includes/Traits/Admin.php:1839, ../includes/Traits/Admin.php:2019
 msgid "Using Gutenberg? Check out Essential Blocks!"
 msgstr ""
 
-#: ../includes/Traits/Admin.php:1827, ../includes/Traits/Admin.php:2007
+#: ../includes/Traits/Admin.php:1840, ../includes/Traits/Admin.php:2020
 msgid "Are you using the Gutenberg Editor for your website? Then try out Essential Blocks for Gutenberg, and explore 40+ unique blocks to make your web design experience in WordPress even more powerful. 🚀"
 msgstr ""
 
-#: ../includes/Traits/Admin.php:1828, ../includes/Traits/Admin.php:2008
+#: ../includes/Traits/Admin.php:1841, ../includes/Traits/Admin.php:2021
 msgid "For more information, <a href=\"https://essential-blocks.com/demo/\" target=\"_blank\">check out the demo here</a>."
 msgstr ""
 
-#: ../includes/Traits/Admin.php:2127, ../includes/Traits/Admin.php:2138
+#: ../includes/Traits/Admin.php:2140, ../includes/Traits/Admin.php:2151
 msgid "You are not allowed to do this action"
 msgstr ""
 
