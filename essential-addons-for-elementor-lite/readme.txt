@@ -4,7 +4,7 @@ Tags: elementor, elementor addons, elementor widgets, elementor templates, eleme
 Requires at least: 5.0
 Tested up to: 7.0
 Requires PHP: 7.0
-Stable tag: 6.6.6
+Stable tag: 6.6.7
 License: GPLv3
 License URI: https://opensource.org/licenses/GPL-3.0
 
@@ -172,6 +172,7 @@ Extensions (Free):
 39. [Multicolumn Pricing Table](https://essential-addons.com/multicolumn-pricing-table/)- Display pricing plans in multiple columns to compare features and choose the right option
 40. [Figma to Elementor Converter](https://essential-addons.com/figma-to-elementor-converter/)- Turn Figma designs into fully customizable Elementor Pages
 41. [Pricing Slider](https://essential-addons.com/pricing-slider/)- Showcase dynamic pricing plans with interactive slider control
+42. [Pinterest Feed](https://essential-addons.com/pinterest-feed/) – Showcase stunning Pinterest content on your website with beautiful layouts.
 
 
 Extensions (Pro):
@@ -317,6 +318,17 @@ Your existing elements/content will work with premium version. So you won't lose
 
 
 == Changelog ==
+
+= Free 6.6.7 - 10/06/2026 =
+
+- Improved: EA Advanced Data Table | Added option to set default sorting column on initial load
+- Improved: EA Sticky Video | Video now pauses automatically when the modal window is closed
+- Improved: EA Woo Account Dashboard | Added dynamic option to display data from user details
+- Improved: EA Login/Register Form | Added option to set page redirect after signing out
+- Improved: EA Table of Contents | Enhanced user experience with additional improvements
+- Fixed: EA Sticky Video | Sticky video displayed with incorrect margins
+- Fixed: EA Filterable Gallery | Search results did not display all matching items properly
+- Few minor bug fixes & improvements
 
 = 6.6.6 - 08/06/2026 =
 
